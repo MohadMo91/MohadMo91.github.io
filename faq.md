@@ -4,4 +4,4 @@ title: FAQ
 permalink: /faq/
 ---
 # FAQ
-Frequently asked questions.
+here are the Frequently asked questions.
